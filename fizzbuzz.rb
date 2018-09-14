@@ -10,5 +10,6 @@ def fizzbuzz(int)
   else
     unless int % 3 != 0 || int % 5 != 0
     end
+  end
 end
 fizzbuzz(6)
